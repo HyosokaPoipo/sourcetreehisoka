@@ -4,6 +4,7 @@ text dari local hisoka... :D
 
 text dari remote github...B-)
 
+perubahan dari github... di 12:45 PM...
 
 <<<<<<< .merge_file_a08972
 perubahan dari local hisoka di jam 12:39 PM... :D
