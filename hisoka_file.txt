@@ -1,0 +1,12 @@
+text dari local hisoka... :D
+ 
+
+
+text dari remote github...B-)
+
+
+<<<<<<< .merge_file_a08972
+perubahan dari local hisoka di jam 12:39 PM... :D
+=======
+Perubahan dari github di jam 12:40 PM... :D
+>>>>>>> .merge_file_a07208
